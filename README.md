@@ -6,6 +6,6 @@ $ cd Madzhab
 
 $ ls
 
-$ Madzhab.py
+$ python Madzhab.py
 
 Copy teksnya sesudah ikon $ lalu paste tiap teksnya di TERMUX
